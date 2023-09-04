@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'Taunt Jekyll Theme'
-url:                 https://bradleytaunt.com
-tagline:             The personal theme of Bradley Taunt
+title:               '<asyetuntitled>'
+url:                 chris-lawrie.github.io
+tagline:             -- something --
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
@@ -20,16 +20,16 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# About/contact
-author:
-  name:              Bradley Taunt
-  url:               https://twitter.com/bradtaunt
-  email:             bradleytaunt@gmail.com
+# # About/contact
+# author:
+#   name:              Chris Lawrie
+#   url:               https://twitter.com/
+#   email:             ...@gmail.com
 
-# Custom vars
-version:             1.0.0
-github:
-  repo:              https://github.com/bradleytaunt/taunt-jekyll
+# # Custom vars
+# version:             1.0.0
+# github:
+#   repo:              https://github.com/chris-lawrie
 
 # Plugins
 plugins:
