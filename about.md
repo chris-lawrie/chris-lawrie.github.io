@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <asyetuntitled>
+title: asyetuntitled
 ---
 
 <p class="lead">I'm Chris, this is my blog, here is my <a href="https://github.com/chris-lawrie">github</a>.</p>
