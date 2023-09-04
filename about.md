@@ -7,4 +7,4 @@ title: <asyetuntitled>
 
 I'm a engineer/datascientist/teacher/artist/tiramisu enthusiast. 
 
-I move electrons to make moving other electrons less carbon intens @[Kevala](https://www.kevala.com/platform).
+I move electrons to make moving other electrons less carbon intensive @[Kevala](https://www.kevala.com/platform).
