@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               'asyetuntitled'
+title:               asyetuntitled
 url:                 chris-lawrie.github.io
-tagline:             -- something --
+# tagline:             
 paginate:            1000
 paginate_path:       "/page:num/"
 baseurl:             ""
