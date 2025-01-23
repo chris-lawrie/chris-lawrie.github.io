@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pedalling Through The Weather
-description: Weather's Role in NYC's Cycling Habits
 summary: Exploring the weather's role in NYC's cycling habits
 ---
 
